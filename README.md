@@ -51,7 +51,7 @@ Del reloj inteligente se registran los siguientes datos:
   
   ## 3. Resultado
   
-    ![alt text](https://github.com/tec-csf/TC3041-P4-Primavera-2019-equipo-5/blob/master/dashboard.png)
+   ![alt text](https://github.com/tec-csf/TC3041-P4-Primavera-2019-equipo-5/blob/master/dashboard.png)
     
  
  ## 4. Referencias
